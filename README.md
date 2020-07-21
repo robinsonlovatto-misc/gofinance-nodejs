@@ -51,5 +51,5 @@ Ice cream, outcome, 3, Food
 	"category": "Radical"
 }
 ```
-### React Front-end for this project:
-Under construction
+### ReactJS Front-end for this project:
+https://github.com/rlovatto/gofinance-reactjs

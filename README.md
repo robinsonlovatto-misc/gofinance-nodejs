@@ -30,9 +30,9 @@ yarn
 ```
   
 ### Endpoints
-/transactions
-/transactions/:id
-/transactions/import
+/transactions   </br>
+/transactions/:id  </br>
+/transactions/import  </br>
 
 ### CSV file example
 ```
